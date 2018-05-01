@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="base">
+</Property><Property Name="Solution File" Value="E:\Programacao\Denise Moraes Pinho - Trabalho - Programacao - Grau B\OrcsQuest\base.sln">
+</Property><Property Name="User Options File" Value="E:\Programacao\Denise Moraes Pinho - Trabalho - Programacao - Grau B\OrcsQuest\base.suo">
+</Property><Property Name="Date" Value="terça-feira, 10 de agosto de 2010">
+</Property><Property Name="Time" Value="10:34">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="base.sln" Description="File successfully backed up as E:\Programacao\Denise Moraes Pinho - Trabalho - Programacao - Grau B\OrcsQuest\base.sln.old">
+</Event><Event ErrorLevel="0" Project="" Source="base.suo" Description="File successfully backed up as E:\Programacao\Denise Moraes Pinho - Trabalho - Programacao - Grau B\OrcsQuest\base.suo.old">
+</Event><Event ErrorLevel="0" Project="base" Source="base.vcproj" Description="Converting project file 'E:\Programacao\Denise Moraes Pinho - Trabalho - Programacao - Grau B\OrcsQuest\base.vcproj'.">
+</Event><Event ErrorLevel="1" Project="base" Source="base.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="base" Source="base.vcproj" Description="Done converting to new project file 'E:\Programacao\Denise Moraes Pinho - Trabalho - Programacao - Grau B\OrcsQuest\base.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="base" Source="base.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="base.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="base.sln" Description="Converted">
+</Event></UpgradeLog>

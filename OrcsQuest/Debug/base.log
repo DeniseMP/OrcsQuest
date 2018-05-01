@@ -1,0 +1,26 @@
+﻿Build started 19/08/2013 22:17:18.
+     1>Project "G:\Programacao\Denise Moraes Pinho - Trabalho - Programacao - Grau B\OrcsQuest\base.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Debug\base.unsuccessfulbuild".
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I../egl/include /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Elfo.cpp Flecha.cpp Floresta.cpp Jogo.cpp main.cpp OrcsSoldados.cpp Sons.cpp /I../egl/ 
+         Sons.cpp
+     1>g:\programacao\denise moraes pinho - trabalho - programacao - grau b\orcsquest\sons.cpp(5): fatal error C1083: Cannot open include file: 'engcomp_glib.h': No such file or directory
+         OrcsSoldados.cpp
+     1>g:\programacao\denise moraes pinho - trabalho - programacao - grau b\orcsquest\orcssoldados.cpp(5): fatal error C1083: Cannot open include file: 'engcomp_glib.h': No such file or directory
+         main.cpp
+     1>g:\programacao\denise moraes pinho - trabalho - programacao - grau b\orcsquest\main.cpp(5): fatal error C1083: Cannot open include file: 'engcomp_glib.h': No such file or directory
+         Jogo.cpp
+     1>g:\programacao\denise moraes pinho - trabalho - programacao - grau b\orcsquest\jogo.cpp(6): fatal error C1083: Cannot open include file: 'engcomp_glib.h': No such file or directory
+         Floresta.cpp
+     1>g:\programacao\denise moraes pinho - trabalho - programacao - grau b\orcsquest\floresta.cpp(5): fatal error C1083: Cannot open include file: 'engcomp_glib.h': No such file or directory
+         Flecha.cpp
+     1>g:\programacao\denise moraes pinho - trabalho - programacao - grau b\orcsquest\flecha.cpp(5): fatal error C1083: Cannot open include file: 'engcomp_glib.h': No such file or directory
+         Elfo.cpp
+     1>g:\programacao\denise moraes pinho - trabalho - programacao - grau b\orcsquest\elfo.cpp(5): fatal error C1083: Cannot open include file: 'engcomp_glib.h': No such file or directory
+         Generating Code...
+     1>Done Building Project "G:\Programacao\Denise Moraes Pinho - Trabalho - Programacao - Grau B\OrcsQuest\base.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:22.49
